@@ -1,0 +1,2143 @@
+The context surrounding
+an enterprise, created,
+and influenced by multiple
+inherently uncertain forces, can
+significantly impact the fortunes
+of a business. While this volatility
+has come to be expected as normal,
+not every business emerges from it having
+tackled the situation with the same resilience.
+Those that get a head start in preparing and taking
+on the challenges are also the ones that come out of the
+uncertainty with the ability to outperform in the recovery.
+That does not necessarily mean rethinking one’s business
+strategy, but rather rearticulating it to adapt. It’s really
+about being judicious where to lean in and where to pull
+back. In essence, it’s about protecting one’s capability
+to innovate and propel forward while being deeply
+disciplined when it comes to operations. Digitally
+transformed companies have a distinct advantage here.
+They can drive frictionless business throughout the supply
+chain, serve customers at lower costs, and avoid resourceintensive IT upgrades, unlike the digitally disadvantaged
+who may have to wait for economic conditions to improve
+before they can make progress.
+Advanced technologies – especially AI in tandem with
+cloud – are creating performance opportunities that are
+reshaping these dynamics in significant ways. They are
+helping companies to amplify human potential to take
+on higher value work, boost people productivity and
+rapidly create business value. From unlocking efficiencies
+at scale and empowering the ecosystem to accelerating
+growth, cognitively capable companies are unshackling
+intelligence from data for experimentation as well as
+the scale-out of AI to power greater efficacy and create
+disruptive revenue streams.
+Infosys is taking the AI-first approach to its own
+transformation. We are bringing the power of AI, analytics,
+and cloud to accelerate our own enterprise transformation,
+even as we build incremental value from micro-changes,
+to improve client service, reimagine business processes,
+and boost productivity. Nearly 50,000 reusable intelligent
+services, applied in over 25,000 instances, are amplifying
+our employees to boost their productivity.
+It is Infosys TopazTM – our AI-first services using generative
+AI – that’s making it all possible. Both for us and our clients.
+Today, 12,000+ AI use cases and 150+ pre-trained AI
+models delivered by AI-first specialists and data strategists
+are accelerating business value for enterprises the world
+over. All this, while ensuring uncompromising ethics, trust,
+privacy and compliance, and security of data and AI.
+You’ll no doubt catch interesting glimpses of these exciting
+possibilities and progress in this Integrated Annual Report.
+It’s the same potential we see too, to help our clients
+navigate change and move into a future filled with more
+potential, and more shared advances.
+NAVIGATING CHANGE AT THE PACE OF AI
+Infosys Integrated Annual Report 2022-23 3
+4 Infosys Integrated Annual Report 2022-23
+ACCELERATING THE AI-FIRST
+JOURNEY FOR YOUR ENTERPRISE
+E-commerce fraud has evolved and increased with
+the surge in online commerce since the pandemic.
+Bad actors are launching more sophisticated attacks.
+E-commerce losses to online payment fraud were
+estimated at US$41 billion globally in 2022, making
+cybersecurity an utmost priority for all digital
+companies.
+Booking Holdings is the world’s leading provider
+of online travel and related services, offered to
+consumers and local partners in more than 220
+countries and territories through six primary
+consumer-facing brands: Booking.com, Priceline,
+Agoda, Rentalcars.com, KAYAK and OpenTable.
+Booking Holdings’ mission is to make it easier for
+everyone to experience the world.
+Across their operations, Booking Holdings’ brands
+have always been keen to ensure comprehensive
+security powered by next-gen technology. To realize
+this, the company teamed up with Infosys to ramp
+BOOKING HOLDINGS: BOOSTING THE RISK-RESILIENCE OF
+BUSINESS
+‘’Modern enterprises, with their digital footprint expanding past
+traditional perimeters, are increasingly susceptible to cybersecurity
+attacks. To be cyber-resilient, enterprises must embed security by
+design and operational measures to adequately protect products and
+services. To do this, they need to embrace AI-first threat management
+solutions. We have successfully adopted this approach at Booking
+Holdings and for our brands working collaboratively with Infosys.’’
+Spencer Mott
+Chief Security Officer – Booking Holdings & Booking.com
+up a Center of Excellence in Bucharest, Romania.
+The Center delivers services across critical business
+functions in cybersecurity, fraud management
+and analytics and TRAC (Trust, Risk, Assurance and
+Compliance). It also delivers services for financial
+systems development and support, IT development
+and support, application security, risk management,
+audit management and account security consultancy.
+Infosys TopazTM AI-first solution plays a key role here
+in making these services truly cognitive. This initiative
+is driving improved speed to market, more innovative
+thinking and consistently rewarding business
+outcomes for brands like Booking.com.
+Efforts at Infosys strengthen this collaboration to
+build innovative solutions in the travel domain.
+Infosys is also looking to continuously upskill its
+project team to build exceptional skill sets that can be
+leveraged to build these focused solutions.
+Infosys Integrated Annual Report 2022-23
+5
+6 Infosys Integrated Annual Report 2022-23
+ACCELERATING THE AI-FIRST
+JOURNEY FOR YOUR ENTERPRISE
+Digital transformation of enterprises today is also
+leading to data and AI transformation of businesses
+bringing powerful capabilities to non-technical
+users in the world of healthcare. Cloud remains a key
+foundational capability necessary to accelerate value
+generation on this journey.
+Molina Healthcare, a FORTUNE 500 company,
+provides managed healthcare services under the
+Medicaid and Medicare programs and through
+the state insurance marketplace. Through locally
+operated health plans, Molina Healthcare serves
+approximately 5.1 million Americans.
+From first starting their cloud journey to enable
+exponential efficiencies, Molina Healthcare has long
+since evolved it to become a key driver of revenue
+for businesses through the creation of cognitive
+capabilities. That’s why, leveraging Infosys CobaltTM –
+cloud services and solutions, for Molina Healthcare,
+has also meant creating a foundation with ready
+access for business users.
+Molina Healthcare is committed to providing a wide
+range of quality healthcare services to families and
+individuals who qualify for government-sponsored
+programs. Today, running business operations,
+including their mission critical systems, with dataand AI-powered capabilities on the cloud, has given
+Molina Healthcare a first-mover advantage that few
+others enjoy. Better business scalability and resilience
+have improved the experience for their members.
+Growth, for the business, is accelerated by adding
+more participants from new untapped states. Time to
+onboard these participants and costs to provide them
+care have significantly reduced, thereby boosting
+profitability.
+But perhaps, most significantly, this cloud-first
+journey that Molina Healthcare is on has reinforced
+the company’s ability to realize its purpose – to
+improve the lives and well-being of its members,
+while making a positive impact in the communities
+they serve.
+MOLINA HEALTHCARE: MAXIMIZING VALUE FROM CLOUD
+INVESTMENTS
+‘’Growing our cloud capabilities has been integral to our digital
+transformation. We also know that continuing to strengthen these
+capabilities is the way for us to become an AI-first enterprise that will
+enable to service our members seamlessly. Infosys is a trusted partner
+for us on this journey.’’
+Amir Desai
+CIO, Molina Healthcare
+Infosys Integrated Annual Report 2022-23 7
+8 Infosys Integrated Annual Report 2022-23
+ACCELERATING THE AI-FIRST
+JOURNEY FOR YOUR ENTERPRISE
+As companies seek to extend market leadership, skills
+for their employees, especially in new technology
+capabilities like generative AI, IoT, cybersecurity and
+additive manufacturing, are becoming vital for longterm success. Building efficiencies into the learning
+path for organization-wide upskilling and reskilling is
+high on the list of focus areas for business leadership.
+With a rich history spanning over 175 years, Siemens
+is a German multinational technology company
+and one of the largest engineering companies in
+the world. Staying ahead of the technology curve is
+critical for Siemens to retain its leadership. This makes
+rapid and effective upskilling of its large, diverse and
+geographically spread workforce imperative.
+Partnering with Infosys and leveraging Infosys
+Wingspan, AI-first learning and talent transformation
+platform, Siemens has reimagined its approach to
+upskilling and learning. Infosys Wingspan draws
+on Infosys TopazTM to bring in robust AI, including
+generative AI capabilities. With Infosys, Siemens’
+enterprise learning has stepped firmly into the
+digital age – leading to the inception of My Learning
+World harnessing Infosys Wingspan. It is the single
+entry point into digital learning and the gateway
+to personal upskilling and reskilling at scale for
+Siemens employees, with AI to monitor and predict
+learning, simultaneously acting as the digital brain
+of the company.
+My Learning World is amplified with AI-powered
+algorithms that deliver a strong nudge framework
+to integrate learning actively into the performance
+culture of the organization. AI is also helping deeply
+personalize the upskilling journey for learners. The
+cognitive core of My Learning World also allows
+leaders to track the progress that learners make and
+continuously refocus efforts and content to deliver
+improved outcomes.
+As the exploration of generative AI tools for the
+platform intensifies, the promise to make the learning
+journey richer and more engaging is becoming real.
+Some key generative AI-driven features include
+automatic content generation, automatic creation
+of learning objectives and AI-powered learning
+assistants. Applying AI to the data from this platform
+gives Siemens key insights into the learning habits
+and skill trends, enhances search quality and learning
+experience. And the results are encouraging –
+My Learning World is the fourth most used platform
+across Siemens, recording six million hours of
+learning in total in fiscal 2022.
+This AI-first journey to efficiently enhance their
+digital skill quotient is helping Siemens foster a
+culture of lifelong learning. It is enabling them to
+build a resilient workforce that can adapt to rapid
+technological changes in the industry.
+SIEMENS: BOOSTING THE EFFICIENCIES OF WORKFORCE
+LEARNING
+‘At Siemens, we want to support our people in staying relevant in
+a permanently changing environment by continuously evolving
+functional and technical skills. Digitalization, with an AI-first approach,
+is at the core of our strategy for the future. We are excited to have found
+an effective partner in Infosys who can support us to bring greater
+efficiencies to our employees’ learning and growth journey with My
+Learning World. This is an important partnership for Siemens, and we
+look forward to continuing to build on these learning experiences for
+our employees.”
+Daniela Proust
+Senior Vice President, Head of Global Learning and Growth at Siemens
+Infosys Integrated Annual Report 2022-23
+9
+10 Infosys Integrated Annual Report 2022-23
+MAKING
+BUSINESSES
+SMARTER
+ACCELERATING THE AI-FIRST
+JOURNEY FOR YOUR ENTERPRISE
+Digitalization is both the force and the force
+multiplier for the engineering sector to navigate
+their next while planning, designing, managing, and
+engineering communities to thrive.
+WSP is one of world’s leading engineering and
+professional services firms, developing creative,
+comprehensive, and sustainable solutions for the
+future. Equipped with an intimate understanding
+of local intricacies, world-class talent and proactive
+leadership, the company plans, designs, and
+engineers solutions to uniquely complex problems.
+Their partnership with Infosys will be enabling WSP’s
+enterprise-wide internal digital transformation across
+all core processes including project and portfolio
+management, sales, procurement, finance, and
+human capital management. The outcome WSP
+aspires to, is the creation of an agile, responsive,
+and unified organization that works synergistically
+across their various entities and markets. The goal is
+to continue to improve win ratios, cash flows, drive
+efficient project management, talent management,
+book closures and help onboard seamless integration
+of new entities. This will require undertaking
+large-scale business process transformation with
+underlying agile cloud-led technologies to equip
+various personas, including the project manager,
+with better insights for informed decision making.
+The project commenced by implementing a global
+blueprint to addresses challenges around unique
+industry-specific business processes, providing for a
+robust business architecture and delivering intuitive
+user experiences for all key stakeholders. Oracle ERP
+cloud was chosen as the underlying cloud platform
+with bolt-on extensions and intelligent automation
+to support insights-led business redesign. The
+solution drew support from a strong automation, and
+embedded analytics backbone to deliver a unified
+system with deep visibility and control.
+WSP, in partnership with Infosys, has completed the
+first deployment in Canada, one of the key regions.
+Plans are now afoot to implement in the US, UK and
+ultimately all global regions. This will enable WSP
+to continue to drive strong project management
+with trackable schedule and budget adherence,
+streamlined flow of talent, effective management
+of the sales pipeline, optimized pricing techniques
+along with excellent risk management and controls.
+WSP: REDESIGNING BUSINESS OPERATIONS WITH INSIGHTS
+“From improving planning, to impacting operational efficiency and
+personnel training, insights-driven digital transformation is key to our
+strategy to smoothly solve complex engineering challenges. This also
+offers a way to continuously improve and prepare for a wide range of
+business scenarios. We are glad to have Infosys partner with us in these
+endeavors.’’
+Chadi Habib
+Chief Technology Officer and Head of Business Solutions, WSP
+Infosys Integrated Annual Report 2022-23 11
+12 Infosys Integrated Annual Report 2022-23
+ACCELERATING THE AI-FIRST
+JOURNEY FOR YOUR ENTERPRISE
+Organizations in the insurance industry have recently
+been severely targeted by threat actors due to the
+huge volume of personally identifiable information
+and sensitive customer financial data. To date, more
+than 100 million users have had their personally
+identifiable information compromised in this sector,
+making cybersecurity an utmost priority.
+MS Amlin is a leading insurer and reinsurer and is part
+of the global top-10 insurance group MS&AD, with
+three main legal entities’ operating in the Lloyd’s, UK,
+Continental European and Bermudian markets. With a
+300-year record, MS Amlin delivers quality service for
+businesses facing the most complex and demanding
+risks. Their areas of operation are mostly property &
+casualty, marine and reinsurance markets.
+MS Amlin has chosen Infosys as their cybersecurity
+service provider to ensure comprehensive
+security services powered by cognitive next-gen
+security operations.
+Infosys offers enterprise-wide security controls
+to secure MS Amlin’s IT estate, including identity
+protection, network security, workplace and workload
+security, vulnerability management and governance,
+along with risk and compliance management. The
+platform-centric approach for security tools and
+controls are embedded with cognitive AI-modeled
+use cases and playbooks for advanced threat
+detection and response.
+Identity is now a crucial aspect of cybersecurity;
+if compromised, it can trigger many lethal server
+attacks. Infosys has, for MS Amlin, mitigated the risk of
+identify management by implementing SSO – single
+sign-on and reconciliation of privileged accounts.
+Infosys has also helped implement multi-factor
+authentication and privilege access management
+with industry-leading and best-of-breed products
+and solutions.
+Network detection and response has also been
+operationalized for MS Amlin to get deep and
+detailed insights on the anomalies in their
+environment.
+Working in collaboration with MS Amlin, Infosys has
+been able to protect the business from evolving
+threats and elevate their security posture.
+MS AMLIN: INSIGHTS TO NAVIGATE FROM RISK MANAGEMENT
+TO STRATEGIC RESILIENCE
+“Modern enterprises, with their digital footprint growing beyond
+traditional perimeters, are becoming soft targets for cybersecurity
+attacks. To be risk-resilient, enterprises must embed security by
+design and embrace next-gen cognitive threat management
+solutions. MS Amlin and Infosys Cybersecurity are working
+collaboratively to establish next-gen security operations for
+threat monitoring and incident response orchestration based on
+AI hypothesis.”
+Andy Hodgson
+CISO, MS Amlin
+Infosys Integrated Annual Report 2022-23 13
+14 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 15
+Contents
+For an interactive digital experience of the report, visit:
+https://www.infosys.com/content/dam/infosys-web/en/investors/reports-filings/
+annual-report/annual/documents/integrated-annual-report2022-23/index.html
+16 About this report
+Corporate overview
+18 About Infosys
+19 Global presence
+20 The Infosys Board of Directors
+26 The Infosys leadership team
+Performance overview
+28
+30
+32
+34
+Business highlights
+Chairman
+’s message
+Letter to the Shareholder
+Awards and
+recognitions
+Approaching value creation
+38 Our business context
+40 Strategy
+42 Value creation model
+Delivering value
+44 Financial Capital
+46 Human Capital
+48 Intellectual Capital
+50 Natural Capital
+52 Manufactured Capital
+54 Social and Relationship Capital
+Statutory reports
+58 Board’s report
+70 Annexures to the Board’s report
+100 Management’s discussion and analysis
+117 Corporate governance report
+155 Investor contacts
+157 Risk management report
+161 Business Responsibility and Sustainability Report
+205 CEO and CFO certification
+Financial statements
+206 Standalone
+290 Consolidated
+16 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 17
+About this report
+Infosys adopted the Global Reporting Initiative (GRI)
+principles to disclose performance on non-financial
+aspects of the business 15 years ago and became the
+first IT company to publish sustainability performance
+in accordance with the GRI G4 (comprehensive) criteria
+in 2014.
+This is the second Integrated Annual Report of Infosys
+Limited. Our Integrated Annual Report provides a
+comprehensive overview of our company’s performance
+and progress over the past year. It includes quantitative
+and qualitative disclosures on material topics, such as
+financial performance, environmental sustainability, social
+responsibility, and our relationship with our stakeholders.
+It also describes our strategy, leadership commitment and
+culture that celebrates people, performance and purpose.
+The Infosys Integrated Annual Report 2022-23 has been
+prepared in accordance with the International Integrated
+Reporting Framework, developed by the International
+Integrated Reporting Council (IIRC), the GRI Standard and
+SASB Standard. This report also includes the Business
+Responsibility and Sustainability Report (BRSR), prepared in
+accordance with the guidelines issued by the Securities and
+Exchange Board of India (SEBI). We have also mapped our
+contribution to the Sustainable Development Goals (SDGs)
+through the Infosys ESG Vision and ambitions.
+The financial and statutory data disclosed in the
+statutory sections of this report meet the requirements
+of the Companies Act, 2013 (including the rules made
+thereunder) and applicable SEBI Regulations.
+An introduction to the report
+Auditors’ reports
+The Auditors’ Report for fiscal 2023 from Deloitte Haskins
+& Sells LLP, Chartered Accountants (ICAI Firm Registration
+Number 117366W/ W-100018) does not contain any
+qualification, reservation or adverse remark. The Report is
+enclosed with the financial statements in this Integrated
+Annual Report.
+The Secretarial Auditors’ Report for fiscal 2023 from
+Makarand M. Joshi of Makarand M. Joshi & Co., Company
+Secretaries, does not contain any qualification, reservation
+or adverse remark. The Secretarial Auditors’ Report is
+enclosed as Annexure 5 to the Board’s report.
+Independent assurance
+Select non-financial sustainability disclosures in this
+Integrated Annual Report are verified by KPMG Assurance
+and Consulting Services LLP. The Independent Assurance
+Statement for our BRSR disclosures is available as part of
+this Integrated Annual Report.
+Management’s review
+This Integrated Annual Report has been reviewed and
+approved, for publication, by the Management of the
+Company.
+Feedback
+Share your feedback about the report to
+investors@infosys.com
+Our capitals
+Financial Capital
+We obtain our Financial Capital through
+the funds generated from our business
+operations and financing activities.
+Our strong performance on the back
+of meticulous execution over the years,
+as reflected in the combination of
+high growth and profitability, has led
+to building a strong, debt-free, and
+liquid Balance Sheet. Our focus is on
+ensuring a sustainable and profitable
+financial position.
+Intellectual Capital
+Our Intellectual Capital is driven by
+agility, flexibility, and innovation.
+We are committed to working
+with experts, academia, and other
+stakeholders to develop new products
+and services that meet the needs
+of our customers and communities.
+With iCETS, the Living Labs, and the
+Infosys Innovation Network, we have
+a broad portfolio of solutions across
+industry segments. The Infosys Prize
+and Aarohan Social Innovation awards
+recognize outstanding achievements
+by researchers and scholars and provide
+a platform for innovators and social
+entrepreneurs, respectively.
+Manufactured Capital
+As strong advocates of environmental
+stewardship extending beyond
+our boundaries, our Manufactured
+Capital includes our energy efficient
+offices, data centers, innovation hubs,
+digital studios, and our technology
+infrastructure across the globe. With
+the highest-rated green buildings
+on our campuses and investments
+in collaborative tech infrastructure,
+we offer productive, safe and healthy
+workplaces for employees, clients and
+contractors.
+Social and Relationship
+Capital
+Our Social and Relationship Capital
+guides us as we bring the interests
+of our stakeholders to the fore. As
+enterprises focus on reshaping
+their businesses to prepare for the
+digital era, we are helping our clients
+drive transformation and sustain
+gain from their large-scale business
+transformation efforts. Our Foundations
+focus on CSR efforts globally across
+the domains of education, healthcare,
+women empowerment, sustainability,
+rural development, art and culture,
+and disaster relief. Our social ambition
+focuses on serving the development
+of people by shaping a future with
+meaningful opportunities for all.
+Human Capital
+Nurturing talent for the future is
+essential for our continued success.
+Our 5C model for Engagement –
+Connect, Collaborate, Celebrate, Care,
+and Culture, is designed to strengthen
+and reinforce our culture so that it is
+experienced uniformly and positively
+by employees – remote or in office.
+We have long-established paths for
+employee upskilling and reskilling, and
+our efforts have been well rewarded,
+providing value to our people and us.
+Natural Capital
+Climate action has been a key focus
+area for our Natural Capital. We have
+been at the forefront of the ESG
+movement and became carbonneutral in 2020 – 30 years ahead of the
+timeline set by the Paris Agreement.
+Today, we incorporate environmental
+considerations into everything that we
+do, as we power the journey towards a
+sustainable world for all.
+The capitals, as described below, provide a holistic perspective of how short, medium and long-term value is created
+and preserved at Infosys. The capitals are simultaneously inter-dependent and mutually beneficial as they create
+synergy across the organization. Our strategy and ESG framework  help to channel all inputs through the capitals to
+manifest into the most impactful outputs and outcomes for all stakeholders.
+18 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 19
+About Infosys
+Corporate overview
+Infosys is a global leader in nextgeneration digital services and
+consulting. We enable clients in more
+than 56 countries to navigate their
+digital transformation.
+With over four decades of experience
+in managing the systems and
+workings of global enterprises,
+we expertly steer clients, as they
+navigate their digital transformation
+powered by the cloud. We enable
+them with an AI-powered core,
+empower the business with agile
+digital at scale and drive continuous
+improvement with always-on
+learning through the transfer of
+digital skills, expertise, and ideas
+from our innovation ecosystem.
+We are deeply committed to being
+a well-governed, environmentally
+sustainable organization where
+diverse talent thrives in an inclusive
+workplace.
+Established in 1981, from a capital of
+US$250, we have grown to become a
+company with a market capitalization
+of approximately US$72.35 billion.
+In our journey of over 40 years, we
+have catalyzed India’s transformation
+into the global destination for
+software services talent. We
+3,43,234
+Employees
+1,872
+Active clients `1,46,767 cr
+Total revenues in fiscal 2023
+pioneered the Global Delivery Model
+and became the first IT company
+from India to be listed on NASDAQ.
+Even as Infosys first turned carbon
+neutral in 2020 – 30 years ahead of
+the 2050 timeline set by the Paris
+Agreement, we articulated our ESG
+Vision 2030, stating our commitment
+to shape and share solutions that
+serve the development of businesses
+and communities. This reaffirms
+our long-standing commitments
+focused across core areas including
+climate change, technology for
+good, diversity and inclusion,
+energizing local communities, ethics
+and transparency, data privacy and
+information management.
+Our Values
+Our Company’s Code of Conduct
+stands on the strong foundation
+set by our values, encapsulated in
+the acronym C-LIFE.
+Client value
+To surpass client expectations
+consistently
+Leadership by example
+To set standards in our business
+and transactions and be an
+exemplar for the industry and
+ourselves
+Integrity and transparency
+To be ethical, sincere and open in
+all our transactions
+Fairness
+To be objective and transactionoriented, and thereby earn trust
+and respect
+Excellence
+To strive relentlessly, constantly
+improve ourselves, our teams, our
+services and products to become
+the best
+Our Purpose
+To amplify human potential
+and create the next
+opportunity for people,
+businesses and communities
+Revenue by geography
+Regions 2022-23
+North America 61.8%
+Europe 25.7%
+Rest of the World 9.9%
+India 2.6%
+274
+No. of offices
+56
+No. of countries
+For details of our global locations, visit
+https://www.infosys.com/investors/reports-filings/documents/global-presence2023.pdf
+Global presence*
+Corporate overview
+Infosys began its operations in a small apartment office in Pune,
+India, in 1981. Today, we have offices across six continents.
+Argentina
+Brazil
+USA
+Canada
+Costa Rica
+Chile
+Peru
+Mexico
+Puerto Rico
+Australia
+New Zealand
+China
+Saudi Arabia UAE
+Qatar
+Turkey
+Israel
+India
+South Africa
+Mauritius
+Armenia
+Belgium
+Bulgaria
+Luxembourg
+Ireland
+UK
+Netherlands
+Germany
+France
+Spain
+Portugal
+Liechtenstein
+Hungary
+Slovakia
+Switzerland
+Serbia
+Italy
+Malta
+Denmark Finland
+Sweden
+Hong Kong Taiwan
+Philippines
+Malaysia Singapore
+Japan
+South Korea
+Latvia
+Lithuania
+Czech Republic
+Poland
+Austria
+Croatia
+Romania
+Norway
+Countries where we operate
+*as of May 29, 2023
+20 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 21
+The Infosys Board of Directors
+Corporate overview
+Nandan M. Nilekani
+Chairman
+Salil Parekh
+Chief Executive Officer and Managing Director
+Chairperson
+Member
+D. Sundaram
+Lead Independent Director
+Nomination and Remuneration Committee
+Risk Management Committee
+Audit Committee
+Stakeholders Relationship Committee
+Cybersecurity Risk Sub-committee
+Michael Gibbs
+Independent Director
+Chairperson
+Member
+Stakeholders Relationship Committee
+Cybersecurity Risk Sub-committee
+Audit Committee
+Nomination and Remuneration Committee
+Risk Management Committee
+Bobby Parikh
+Independent Director
+Member
+Risk Management Committee
+Stakeholders Relationship Committee
+Uri Levine
+Independent Director*
+Member
+Corporate Social Responsibility Committee
+Environmental, Social and Governance Committee
+Risk Management Committee
+Cybersecurity Risk Sub-committee
+* Retired on April 19, 2023
+Chitra Nayak
+Independent Director
+Member
+Corporate Social Responsibility Committee
+Risk Management Committee
+Stakeholders Relationship Committee
+Note: The Board and Committee composition is as of March 31, 2023.
+Govind Iyer
+Independent Director
+Chairperson
+Member
+Corporate Social Responsibility Committee
+Chairperson Chairperson
+Audit Committee Environmental, Social and Governance Committee
+Nomination and Remuneration Committee
+Environmental, Social and Governance Committee
+Risk Management Committee
+Cybersecurity Risk Sub-committee
+22 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 23
+The Infosys Board of Directors
+Salil Parekh
+Chief Executive Officer and
+Managing Director
+Age: 58
+Nationality: Indian
+Committee details (1)(2)
+Committee details (1)(2)
+Tenure on Board
+Tenure on Board
+Shareholding
+Shareholding
+Board memberships – Indian listed companies
+Date of appointment Board memberships – Indian listed companies
+Date of appointment
+Date of reappointment
+Term ending date
+Term ending date
+Areas of expertise
+Areas of expertise
+Member: Nil
+Chairperson: Nil
+Member: Nil
+Chairperson: Nil
+5.6 years
+5.2 years
+4,07,83,162 shares (0.98%)
+7,86,658 shares (0.02%)
+Infosys Limited: Non-Executive and
+Non-Independent Director
+January 02, 2018 Infosys Limited: Executive Director
+August 24, 2017
+July 01, 2022
+NA
+March 31, 2027
+• Financial
+• Diversity
+• Global business
+• Leadership
+• Information Technology
+• Cybersecurity
+• Board service & governance
+• Sales & marketing
+• Sustainability & ESG
+• Risk management
+• Mergers & Acquisitions
+• Financial
+• Diversity
+• Global business
+• Leadership
+• Information Technology
+• Cybersecurity
+• Board service & governance
+• Sales & marketing
+• Sustainability & ESG
+• Risk management
+• Mergers & Acquisitions
+Read full profile at: https://www.infosys.com/about/management-profiles/nandan-nilekani.html
+Read full profile at: https://www.infosys.com/about/management-profiles/salil-parekh.html
+Nandan M. Nilekani
+Chairman and Non-Executive and
+Non-Independent Director (Promoter)
+Age: 67
+Nationality: Indian
+1. In the committee details provided, every chairpersonship is also considered as a membership.
+2. For the purposes of determination of committee details as per Regulation 26 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015
+(“Listing Regulations”), membership and chairpersonship of only the audit committee and the stakeholders relationship committee across all public companies are
+considered.
+3. Details are as of March 31, 2023.
+1. In the committee details provided, every chairpersonship is also considered as a membership.
+2. For the purposes of determination of committee details as per Regulation 26 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015
+(“Listing Regulations”), membership and chairpersonship of only the audit committee and the stakeholders relationship committee across all public companies are
+considered.
+3. Details are as of March 31, 2023.
+D. Sundaram
+Lead Independent Director
+Age: 70
+Nationality: Indian
+Committee details (1)(2)
+Tenure on Board
+Shareholding
+Board memberships – Indian listed companies
+Date of reappointment
+Date of appointment
+Term ending date
+Areas of expertise
+Member: 5
+Chairperson: 2
+5.7 years
+Nil
+Infosys Limited: Independent Director
+Crompton Greaves Consumer Electricals Limited:
+Independent Director
+GlaxoSmithKline Pharmaceuticals Limited:
+Independent Director
+July 14, 2022
+July 14, 2017
+July 13, 2027
+• Financial
+• Diversity
+• Global business
+• Leadership
+• Information Technology
+• Cybersecurity
+• Board service & governance
+• Sustainability & ESG
+• Risk management
+• Mergers & Acquisitions
+Read full profile at: https://www.infosys.com/about/management-profiles/d-sundaram.html
+Michael Gibbs
+Independent Director
+Age: 65
+Nationality: American
+Committee details (1)(2)
+Tenure on Board
+Shareholding
+Board memberships – Indian listed
+companies
+Date of appointment
+Date of reappointment
+Term ending date
+Areas of expertise
+Member: 2
+Chairperson: 1
+4.7 years
+Nil
+Infosys Limited: Independent Director
+July 13, 2018
+July 13, 2021
+July 12, 2026
+• Financial
+• Diversity
+• Global business
+• Leadership
+• Information Technology
+• Cybersecurity
+• Board service & governance
+• Sales & marketing
+• Sustainability & ESG
+• Risk management
+• Mergers & Acquisitions
+Read full profile at: https://www.infosys.com/about/management-profiles/michael-gibbs.html
+24 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 25
+The Infosys Board of Directors
+Chitra Nayak
+Independent Director
+Age: 60
+Nationality: American
+Tenure on Board
+Shareholding
+Date of appointment
+Term ending date
+Areas of expertise
+2 years
+Nil
+March 25, 2021
+March 24, 2024
+• Diversity
+• Global business
+• Leadership
+• Information Technology
+• Cybersecurity
+• Board service & governance
+• Sales & marketing
+• Sustainability & ESG
+• Risk management
+• Mergers & Acquisitions
+Read full profile at: https://www.infosys.com/about/management-profiles/chitra-nayak.html Read full profile at: https://www.infosys.com/campaigns/profile-uri-levine.html
+Committee details (1)(2)
+Board memberships – Indian listed companies
+Member: 1
+Chairperson: Nil
+Infosys Limited: Independent Director
+Bobby Parikh
+Independent Director
+Age: 59
+Nationality: Indian
+Tenure on Board
+Shareholding
+Date of appointment
+Term ending date
+Areas of expertise
+2.7 years
+6,887 shares (0.00%)
+July 15, 2020
+July 14, 2023
+• Financial
+• Diversity
+• Global business
+• Leadership
+• Information Technology
+• Board service & governance
+• Sales & marketing
+• Sustainability & ESG
+• Risk management
+• Mergers & Acquisitions
+Read full profile at: https://www.infosys.com/about/management-profiles/bobby-parikh.html
+Committee details (1)(2)
+Board memberships – Indian listed companies
+Member: 7
+Chairperson: 4
+Infosys Limited: Independent Director
+Biocon Limited: Independent Director
+Indostar Capital Finance Limited: Independent
+Director
+Committee details (1)(2) Tenure on Board
+Shareholding
+Date of appointment Board memberships – Indian listed companies
+Term ending date
+Areas of expertise
+Member: Nil
+Chairperson: Nil
+2.9 years
+Nil
+April 20, 2020 Infosys Limited: Independent Director
+April 19, 2023
+• Diversity
+• Global business
+• Leadership
+• Information Technology
+• Cybersecurity
+• Board service & governance
+• Sales & marketing
+• Sustainability & ESG
+• Risk management
+• Mergers & Acquisitions
+Uri Levine
+Independent Director
+Age: 58
+Nationality: Israeli
+Govind Iyer
+Independent Director
+Age: 60
+Nationality: Indian
+Committee details (1)(2) Tenure on Board
+Shareholding
+Date of appointment Board memberships – Indian listed companies
+Term ending date
+Areas of expertise
+Member: Nil
+Chairperson: Nil
+0.2 years
+991 shares (0.00%)
+January 12, 2023 Infosys Limited: Independent Director
+January 11, 2028
+• Diversity
+• Global business
+• Leadership
+• Cybersecurity
+• Board service & governance
+• Sales & marketing
+• Sustainability & ESG
+• Risk management
+Read full profile at: https://www.infosys.com/about/management-profiles/govind-iyer.html
+1. In the committee details provided, every chairpersonship is also considered as a membership.
+2. For the purposes of determination of committee details as per Regulation 26 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015
+(“Listing Regulations”), membership and chairpersonship of only the audit committee and the stakeholders relationship committee across all public companies are
+considered.
+3. Details are as of March 31, 2023.
+1. In the committee details provided, every chairpersonship is also considered as a membership.
+2. For the purposes of determination of committee details as per Regulation 26 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015
+(“Listing Regulations”), membership and chairpersonship of only the audit committee and the stakeholders relationship committee across all public companies are
+considered.
+3. Details are as of March 31, 2023.
+26 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 27
+The Infosys leadership team* Corporate overview
+Salil Parekh
+Chief Executive Officer and Managing
+Director
+Nilanjan Roy
+Chief Financial Officer
+Anand Swaminathan
+Segment Head – Communication,
+Media and Technology
+Anant Raghavendra Adya
+Group Practice Engagement
+Manager – Cloud Services
+Ashiss Kumar Dash
+Segment Head – Energy, Utilities,
+Resources and Services
+Dinesh R.
+Co-Head of Delivery, Infosys
+Andrew Groth
+Industry Head – Financial Services,
+Healthcare, Insurance and
+Life Sciences
+Balakrishna D.R.
+Service Offering Head – Energy,
+Utilities, Communications, Resources
+& Services, AI and Automation
+Hemant Lamba
+Head – Strategic Global Sourcing
+Anup Kapoor
+Global Head Operations – IBPM
+Deepak Bhalla
+Chief Risk Officer & Global Head –
+Business Finance and Operations
+Planning
+Inderpreet Sawhney
+Group General Counsel and
+Chief Compliance Officer
+Arun Kumar H.R.
+Head – Business Strategy, Planning
+and Operations
+Dennis Kantilal Gada
+Industry Head, Financial Services
+Jasmeet Singh
+Segment Head – Manufacturing
+Jayesh Sanghrajka
+Deputy Chief Financial Officer
+Karmesh Gul Vaswani
+Segment Head – CPG, Logistics
+& Retail
+Mohammed Rafee Tarafdar
+Chief Technology Officer,
+Global Delivery
+Rajesh Varrier
+Service Offering Head and Head –
+Americas Operations
+Shaji Mathew
+Group Head – Human Resources
+Umashankar Lakshmipathy
+Group Practice Engagement
+Manager, Cloud and Infrastructure
+Services
+Narsimha Rao Mannepalli
+Co-Head of Delivery, Infosys
+Richard Lobo
+Head, HR – Infosys Limited
+Ruchir Budhwar
+Industry Head, Manufacturing
+Sumit Virmani
+Chief Marketing Officer
+Satish H.C.
+Co-Head of Delivery, Infosys
+Martha King
+Chief Client Officer
+Sunil Kumar Dhareshwar
+Global Head – Corporate Accounting
+& Taxation and Group Head –
+Facilities, Infrastructure and Security
+Rajeev Ranjan
+Service Offering Head –
+Manufacturing, India & Japan
+Business Units
+Anantharaman Radhakrishnan
+Chief Executive Officer &
+Managing Director – IBPM
+*List as of May 29, 2023
+28 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 29
+Business highlights
+Performance overview
+Dividend per share (in ₹)
+34.0
+9.7% growth Y-o-Y
+Revenues
+₹1,46,767cr
+20.7% growth Y-o-Y
+15.4% CC growth Y-o-Y
+Operating margin
+21.0%
+Robust operating margin
+Infosys achieved industryleading revenue growth of
+15.4% with healthy operating
+margin of 21.0% for fiscal
+2023. Our ESG Vision 2030 and
+ambitions continue to drive
+value for all our stakeholders.
+Carbon offset programs
+2,40,000+
+Rural families continue to benefit
+Digital revenues
+(as a % of total revenue)
+62.2%
+25.6% CC growth Y-o-Y
+Free cash(1)
+₹20,443cr
+FCF conversion at 84.8% of net profit
+Consolidated cash and
+investments(2)
+₹ 31,286cr
+Continue to main strong
+liquidity position
+Buyback completed
+₹ 9,300cr
+at an average price of ₹ 1,539.06
+Return on equity
+31.2%
+Improved by 2.1% over
+the last fiscal
+Basic earnings per share
+(par value of ₹ 5 each)
+57.63
+9.7% growth Y-o-Y
+Number of US$ 50 million + clients
+75
+Strong client metrics with increase
+of 11 clients Y-o-Y
+In ₹ crore, except per equity share data FY 2023 FY 2022 FY 2021 FY 2020 FY 2019
+Revenues(1) 1,46,767 1,21,641 1,00,472 90,791 82,675
+Net profit(1)(2) 24,095 22,110 19,351 16,594 15,404
+Basic earnings per share (in ₹)(1) 57.63 52.52 45.61 38.97 35.44
+Market capitalization 5,92,394 8,02,162 5,82,880 2,73,214 3,24,448
+In US$ million, except per equity share data FY 2023 FY 2022 FY 2021 FY 2020 FY 2019
+Revenues(1) 18,212 16,311 13,561 12,780 11,799
+Net profit(1)(2) 2,981 2,963 2,613 2,331 2,199
+Basic earnings per share (in ₹)(1) 0.71 0.70 0.62 0.55 0.51
+Market capitalization 72,351 104,706 79,760 34,966 47,614
+Notes:
+(1) Based on IFRS consolidated financial statements
+(2) Attributable to owners of the Company
+Key trends
+Note:
+(1) Free cash flow is defined as net cash provided by operating activities less capital expenditure as per the Consolidated Statement of Cash Flows
+prepared under IFRS.
+(2) Comprise cash and cash equivalents, current and non-current investments excluding investments in unquoted equity and preference shares, and others.
+Large deal TCV
+(Total contract value in US$ billion)
+$9.8b
+Sustained momentum in large
+deal wins continues
+Women employees
+39.4%
+Steady progress towards
+gender diversity goals
+Digital skilling
+8.5mn
+People are a part of our digital
+skilling initiatives
+Tech for Good
+114mn +
+Lives empowered via our Tech for
+Good solutions in e-governance,
+education and healthcare
+Carbon neutrality
+Carbon neutral for
+4 years in a row
+Scope 1, 2 and 3 emissions ~50,000
+Fresh graduates hired globally
+30 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 31
+Chairman’s message
+Performance overview
+If there is one overriding theme that defines our current
+world, it is that it is suffused with uncertainty. The placid
+and the predictable are behind us as each new day brings
+new inputs and new events that derail the carefully-crafted
+models we have constructed of the world around us. The
+cocktail of inflation, interest rates, geopolitics, war, demand
+volatility, supply chain dislocations, the shift from efficiency
+to resilience and security, all stirring quickly and without
+warning, is what’s before us. In any week, we may oscillate
+from caution to optimism and back to caution based on
+the news of the day.
+Such times of intense uncertainty, great short-term
+pressure, and crunched resources require that companies
+must become better, more efficient in their ability to be
+resilient in the present while also securing their future
+growth. This is easier said than done. The extreme volatility
+that surrounds us creates so many probable future states,
+that it simply isn’t prudent for businesses to plan to
+succeed in any one anticipated future scenario. Instead, we
+need to develop the flexibility to be able to avoid limiting
+choices, reduce concentration risk, quickly adapt, and learn
+to thrive in any new reality.
+The era of optionality is upon us.
+Optionality can take various forms. In our IT infrastructure,
+it is the ability to dynamically reconfigure the way we
+work – remotely, in office or hybrid. In the area of talent, it
+is about building and deploying agile learning platforms
+so that our people can hone their skill sets to match
+new demand and new technologies. It is about having a
+digital-first and AI-first business architecture which can
+be constantly configured. It is finding the right balance
+between retaining the core of a company and working
+with partners on others. Optionality must be ingrained in
+strategy and execution.
+Our CEO, Salil Parekh, and his global leadership team,
+realized early on the value that advanced digital
+technologies like AI and cloud, and more recently,
+generative AI, can bring to imagine and execute for
+multiple options in the future. They came together as
+One Infosys to orchestrate teams that lead the charge to
+continually transform Infosys into an organization that truly
+realizes human-machine synergies, from fundamentally
+rethinking organizational design to segmenting cognitive
+tasks to get the right balance between people, technology,
+and process. Today, Infosys is steadily progressing towards
+a future where we don’t just solve immediate business
+Navigating uncertainty
+Nandan M. Nilekani
+Chairman
+problems, but continually innovate and architect for
+challenges that may emerge in the future. We build it
+for ourselves first, and then, deeply rooted in our own
+experience, take it widely to our clients.
+The awesome possibilities of generative AI, we know from
+our own journey to becoming an AI-first enterprise, is not
+without its risks. The problems of AI hallucination, systemic
+biases, lack of explainability along with plenty of practical,
+ethical and intellectual property-related issues remain open
+and up for debate. We also know, from our experience,
+that the path to scaling AI enterprise-wide is non-linear.
+Often, organizations, seeking to mine value from data and
+AI models, successfully undertake pilots but fail to factor in
+what it will take to scale value across the whole enterprise.
+As demands increase, data volumes grow, and complexity
+rises, companies find themselves unable to surmount the
+associated challenges and start to question the path to
+value. Navigating to value-at-scale from AI and retaining
+the larger strategic vision while breaking down the tasks
+into sequential small wins, is not always intuitive or simple.
+With our AI-first strategy, Infosys is guided by that road
+map. We are also bringing to our global clients the ability
+to accelerate business value and amplify human potential
+using AI technologies with Infosys TopazTM
+.
+The digital transformation of every industry and every
+business, over the last several years, has laid the foundation
+to create optionality as we navigate the way forward.
+Our clients have always trusted us to assist them not only
+to make the right digital investments but to safeguard
+these investments for their future. Today, we are excited
+by the opportunity and humbled by the responsibility we
+have to enable them to bring all their digital capabilities
+together to execute quickly and effectively for now, while
+developing multiple options to amplify their competitive
+advantage and market leadership in an uncertain future.
+Our client relevance has never been so compelling, our
+investment in employees as continuous and consistent,
+and our purpose so keen. We are ready to co-create with
+our clients and our entire ecosystem a flexible future that
+puts people first and benefits the broader society even as
+it propels business forward. After all, like many have said,
+imagination is our invisible power to create all things. Our
+future can be as bright as we imagine it to be.
+Bengaluru Nandan M. Nilekani
+May 29, 2023 Chairman
+32 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 33
+Letter to the Shareholder
+Performance overview
+Dear shareholder,
+Financial year 2023 was a strong year for our business.
+In FY23, we saw growth of over 15%, operating margins
+of 21%, and free cash flow of US$2.5 billion. Our attrition
+reduced for each quarter of the year.
+With the changing economic environment, we positioned
+our Company to work with clients for their digital
+transformation as well as their cost efficiency and
+automation programs, enabling us to support them in two
+critical areas of interest.
+We have developed a strong set of capabilities in
+generative artificial intelligence to enhance how we enable
+our clients to derive value. These capabilities are available
+to all our clients in the form of Infosys TopazTM
+.
+Our Cobalt capabilities for the cloud continue to resonate
+with our clients. Our platforms, including Finacle for banks,
+McCamish for insurance, Equinox for commerce, and Helix
+for healthcare, are creating strong impact with clients.
+During the year, we were recognized by Brand Finance
+among the top three most valuable IT services brands
+globally.
+We continue to deepen our engagement with our clients.
+The number of clients with over US$100 million in revenue
+for the year was at 40. The number of clients with over
+US$50 million in revenue for the year was at 75. Our large
+deal intensity was strong during the year. We had 95 large
+deals with a value of US$9.8 billion in the year. We see
+our One Infosys approach helping support our clients by
+bringing all our capabilities and the strength of our entire
+employee-base to work for their benefit.
+We recruited over 50,000 college graduates in the year and
+ended the year with over 3,40,000 employees. At the end
+of the year, 39% of our employees were women.
+Our learning ecosystem enabled over 5.5 million learning
+days for our employees during the year.
+Last year we returned US$3.1 billion to our shareholders –
+US$1.7 billion as dividend and US$1.4 billion through our
+share buyback program.
+At the end of the financial year, we were the leading
+company among our peers in total shareholder return over
+the past five years.
+We remain committed to the communities we live and
+operate in. With the work of Infosys Foundation, we
+support a variety of social causes, including creating
+positive impact in healthcare, education, sustainability, and
+women empowerment. Our Infosys Springboard initiative
+continues to help build digital skills by providing free
+learning programs to millions of people around the world.
+In the past few quarters, we have seen the global
+economy dealing with inflation, interest rate increases,
+and changes in demand environment for companies in
+various industries. Our strength in digital, cloud, and in
+automation, along with cost efficiency capabilities have
+held us in good stead. These will continue to be critical in
+the evolving economic environment.
+As I look ahead, given the trust of our clients, the
+dedication of our employees, the strength of our
+capabilities, our One Infosys approach, and the guidance
+of our Board, I remain confident of our ability to serve our
+clients and continue to create impact for them.
+With my warmest regards,
+Sd/-
+Bengaluru Salil Parekh
+May 29, 2023 Chief Executive Officer and Managing Director
+Salil Parekh
+Chief Executive Officer and
+Managing Director
+34 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 35
+Awards and recognitions
+Performance overview
+Recognized as a constituent of the
+Dow Jones Sustainability World
+Index for 2022
+Secured a place in CDP’s annual
+‘A List’ for leadership in corporate
+transparency and performance on
+climate change
+Recognized as one of
+the 2023 World’s Most
+Ethical Companies® by
+Ethisphere
+Won the Economic
+Times Best
+Organizations for
+Women Award 2023
+Recognized in the LEADERSHIP
+category in the Indian Corporate
+Governance Scorecard Assessment by
+Institutional Investor Advisory Services
+(IiAS) for the seventh year in a row
+Honored at the Asset ESG Corporate
+Awards 2022 with a ‘Platinum
+Award for excellence in ESG’,
+‘Best Investor Relations Team’, ‘Best
+initiative in Diversity and Inclusion’,
+and ‘Best initiative in Environmental
+Responsibility’
+ESG
+Awarded HFS OneOffice™ Award in the
+Sustainability category
+Recognized as a leader in Everest
+– Sustainability Enablement
+Technology Services PEAK Matrix®
+Assessment
+Ranked as a leader in HFS Top 10:
+Sustainability Services, 2022
+Infosys BPM won the Best CSR
+Impact Award at the Corporate Social
+Responsibility Summit & Awards 2023
+by UBS Forum
+Recognized as a top ESG performer in
+2023 by Sustainalytics
+Infosys topped the charts in the
+CRISIL ESG Leadership Rankings
+and was featured in the CRISIL
+Sustainability Yearbook, 2022 for the
+second consecutive year
+Secured an ‘AA’ rating on MSCI ESG
+Assessment
+Recognized by EcoVadis with a Gold
+medal for the seventh year in a row
+Ranked in the Top 3 IT Services
+Brands in the world and among
+the Top 150 Most Valued Brands by
+Brand Finance Global 500 2023 report
+Business
+Won the ‘Most
+Outstanding Company
+in India – IT Services
+Sector’ in Asia’s
+Outstanding Companies
+Poll 2022 by Asiamoney
+Won the Gold Award at the
+Brandon Hall Group Excellence in
+Technology Awards
+Recognized as a Global Top
+Employer 2023 by the Top
+Employers Institute for the 3rd
+consecutive year
+Recognized as ‘GSI Innovation
+Partner of the Year 2022’ at
+Snowflake Summit
+Winner of the 2022 Microsoft
+Security Modern Endpoint
+Management Partner of the Year
+Award
+Recognized as the Top Service
+Provider Across Nordics in
+the Whitelane Research and PA
+Consulting IT Sourcing Study 2023
+Awarded HFS
+OneOffice™ Award
+in the Innovation
+Ecosystem category
+Recognized as a Top Employer in
+22 countries across Europe, Middle
+East, Asia Pacific, and North America
+for best-in-class HR practices and
+processes
+Won the FE CFO Awards 2023 in the
+Large Enterprises - Servicing Sector
+category.
+Won Treasury Today Asia’s Top
+Treasury Team 2022 award at the
+Adam Smith Awards Asia 2022
+Named in AVTAR Top 10 Best
+Companies for Women in India
+list in 2022
+Recognized among Kantar’s global 100
+most valuable brands in 2022
+Recognized as UK’s Best Workplaces™
+in Tech 2022 by Great Place to Work®
+Recognized among Mexico’s Best
+HR leaders of 2022 by Great Place
+to Work®
+Recognized amongst India’s Best
+Workplaces™ for Women 2022 by
+Great Place to Work®
+Won the ICAI Sustainability
+Reporting Awards 2021-22 for Gender
+Equality
+Infosys recognized as the Champion
+of Inclusion in the Most Inclusive
+Companies Index (MICI) and featured
+in the “100 Best – Hall of Fame” by
+Avtar & Seramount, 2022
+Infosys received the Great Place to Work® Certification across five
+regions including India, Australia, United Kingdom, Germany, USA,
+Canada and Mexico. Infosys BPM received the Great Place to Work®
+Certification in the Philippines
+Positioned as a leader in HFS Top
+10: Capital Markets Services, 2022
+Infosys InStep Ranked as the ‘Best
+Internship Program’ in the 2023
+Vault Firsthand Rankings
+Infosys BPM won in the
+International Project of the Year
+category with Telefonica UK, at
+the Global Sourcing Association
+(GSA) UK Awards 2022
+Infosys rated as “Most Noteworthy”
+Company by DiversityInc, USA
+Recognized as one of the “Most
+Honored” companies, receiving
+multiple awards at the 2022 AllAsia Executive Team Rankings from
+Institutional Investor
+36 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 37
+Infosys BPM recognized as:
+• Leader & Star Performer in Everest
+Group Capital Markets Operations PEAK
+Matrix® Assessment 2023
+• Leader in Everest Group Marketing
+Services PEAK Matrix® Assessment 2023
+• Leader in the NelsonHall Financial
+Services Cloud, SaaS & BPaaS NEAT 2023
+• Leader and Star Performer in Everest
+Group’s Finance and Accounting
+Outsourcing (FAO) PEAK Matrix®
+Assessment
+• LEADER in Nelson Hall NEAT: Supply
+Chain Transformation 2022
+• LEADER in Everest Group Financial Crime
+& Compliance Operations – Services
+PEAK Matrix® Assessment 2022
+• Leader in the 2022 Gartner® Magic
+Quadrant™ for Finance and Accounting
+Business Process Outsourcing
+Infosys won the 2022 Marketing
+Excellence Gold Award from
+Information Technology Services
+Marketing Association (ITSMA) for
+Infosys Cobalt
+Infosys, along with client Lanxess
+recognized as a winner in the
+“Workplace of the Future” category
+in 2022 ISG Paragon Awards™ EMEA
+EdgeVerve named “Innovator” in
+the Computer Vision Category
+at the 2022 NASSCOM AI Game
+Changer Award
+Infosys Finacle won the ‘Best Core
+Banking System Initiative in
+partnership with Bank Raya’ and
+‘Best Retail Bank in partnership
+with Axis Bank’ at the Retail Banker
+International Asia Trail blazer
+Awards 2023
+Infosys BPM and Rio Tinto
+won the SSON North
+America Impact Award
+2023, in the Business
+Resiliency category
+Infosys BPM announced
+as a winner in the
+Telecommunications Project of
+the Year category with BT-EE, at
+the Global Sourcing Association
+(GSA) UK Awards 2022
+Infosys Finacle positioned as a Leader
+in The Everest Group PEAK Matrix®
+for Wealth Management Products
+Provider 2023 report
+EdgeVerve awarded the Gold GLOBEE
+Awards for Disruptor Company of the
+Year in Automation and Productivity
+Infosys ranked among the Top 5
+employers in India for the second
+year in a row, recognized for industry
+leading employee practices by
+LinkedIn Top Companies 2022
+Awards and recognition
+Infosys positioned as a leader in
+NelsonHall’s
+• End-to-End Cloud Infrastructure
+Management Services 2022
+• Supply Chain Transformation 2022
+• Mortgage & Loan Services 2022
+• Financial Services Cloud NEAT, BPaas
+NEAT, and SaaS NEAT 2023
+• Freight and Logistics Digital Services
+2022-23
+• Life Sciences Digital services 2022-23
+• Utilities Digital Services 2022–2023
+• Manufacturing Digital Services 2022–
+2023
+• CPG Digital Services 2022-23
+• Hybrid Enterprise Cloud Services 2022-
+2023
+Infosys ranked as a leader in HFS
+Horizons:
+• Cloud Native Transformation, 2022
+• The Best Service Providers for Retail
+Banking, 2023
+• Digital Engineering Service Providers,
+2023
+• Metaverse Services Providers 2023
+Infosys ranked as a leader in
+Constellation ShortList™
+• Blockchain Technology Services
+• Campaign to Commerce: Best-of-Breed
+Commerce Platforms
+• Digital Transformation Services (DTX):
+Global
+• Public Cloud Transformation Services:
+Global
+• AI-Driven Cognitive Applications
+• Customer Experience (CX) Operations
+Services: Global
+• Metaverse Design and Services
+• Innovation Services and Engineering
+• Learning Marketplaces
+• Microsoft End-to-End Service Providers
+• System Integration (SI) Capabilities on
+Amazon Web Services (AWS) 2022
+• ServiceNow Services 2022
+• System Integration (SI) Capabilities on
+Microsoft Azure 2022
+• Software Product Engineering Services
+2023
+• System Integration (SI) Capabilities on
+Google Cloud Platform (GCP) 2022
+• Workplace Communication and
+Collaboration (WCC) Services 2023
+• Application and Digital Services (ADS)
+in Property & Casualty (P&C) Insurance
+2023
+• Risk and Compliance in BFS IT Services
+2023
+• Application and Digital Services (ADS) in
+Life and Annuity (L&A) Insurance 2023
+• Advanced Analytics and Insights (AA&I)
+Services 2023
+• Digital Transformation Consulting
+Services 2023 Infosys recognized as a leader in
+Forrester Wave™
+• Cloud Migration and Managed Service
+Partners in Asia Pacific, Q4 2022
+• Multicloud-Managed Services Providers,
+Q1 2023
+Infosys positioned as a leader in the
+2022 Gartner® Magic Quadrant™ for
+• Oracle Cloud Applications Services,
+Worldwide
+• SAP S/4HANA Application Services,
+Worldwide
+• IT Services for Communications Service
+Providers, Worldwide
+Infosys recognized as a leader in ISG
+Provider Lens™
+• ServiceNow Ecosystem Partners in U.S.
+and Australia 2022 Quadrant Report
+• Power & Utilities Industry - Services and
+Solutions 2022 study in the US
+• Digital Business Enablement and ESG
+Services in US, UK, Nordics, Germany,
+Australia and Brazil
+• Next-Gen ADM Services 2022 ISG
+Provider lens™ study in US
+Infosys positioned as a leader
+in Avasant’s RadarView™
+assessments in
+• Salesforce Services 2022
+• Internet of Things Services 2022
+• Cybersecurity Services 2022
+• Applied AI and Advanced Analytics
+Services 2022
+• Digital Master’s 2022
+Infosys ranked as a leader in
+the IDC MarketScape’s Vendor
+Assessments in
+• Worldwide Cloud Professional Services
+• Worldwide Intelligent Automation
+Services
+• Worldwide SAP Implementation
+Services 2022
+• Asia/Pacific SAP Implementation
+Services 2022
+• Asia/Pacific Salesforce Implementation
+Services 2022
+• Worldwide Manufacturing Service LifeCycle Management Strategic Consulting
+2022
+• EMEA Service Providers for Energy
+Transition and New Business Models for
+Oil and Gas Companies 2022
+• EMEA Industrial Internet of Things
+Service Providers for Oil and Gas
+Companies 2022
+• Worldwide Manufacturing Intelligence
+Transformation 2023
+• Worldwide Manufacturing Intelligence
+Transformation Strategic Consulting
+2023
+• Worldwide Professional Services
+Firms for Mining Operational Process
+Optimization 2023
+• Asia/Pacific Intelligent Digital Workplace
+Services 2023
+Recognized as a leader in Everest’s
+PEAK Matrix Assessment in
+• Data and Analytics (D&A) Services 2022
+• Healthcare Payer Digital Services 2022
+• Oracle Cloud Applications (OCA)
+Services for Europe
+38 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 39
+Our business context
+Approaching value creation
+Technology is transforming
+businesses in every industry
+around the world in a profound and
+fundamental way. In fiscal 2023, we
+saw emerging technologies, like
+generative AI, 5G, Low Code No
+Code, shape the future of industries.
+Responsible business approaches,
+including embracing ESG, have
+gained traction. We continued to
+witness businesses attempting to
+reimagine their cost structures,
+increase business resilience and
+agility, personalize experiences
+for customers and employees,
+and launch new and disruptive
+products and services. Enterprises
+are leveraging models of the
+digital era to extend the value of
+existing investments and, in parallel,
+transform and future-proof their
+business. The need for professionals
+who are highly skilled in both
+traditional and digital technology
+areas are driving businesses to
+build strategic technology and
+IT partnerships to realize their
+transformation journeys.
+We are also in the third wave of
+AI evolution. The first was driven
+by machine learning, the second
+by deep learning and the third by
+foundation models that will enable
+us to further fine-tune the necessities
+of specialized domains and tasks.
+The future of the technology industry
+continues to be shaped by the
+following trends:
+• Accelerated demand for IT services
+with digital going mainstream and
+growth pockets emerging in areas
+like cloud, AI, cybersecurity, IoT and
+immersive technologies
+• Focus on cost takeouts to deal with
+the uncertain global environment
+• Greater leverage of general-purpose
+AI technology
+• Increase in enterprise spending on
+hybrid, multi-cloud led transformation
+• Proliferation of tech natives and large
+enterprises responding by reinventing
+digital business models
+• Intense competition for talent as
+enterprises embrace new ways
+of working amid scarcity of niche
+digital skills
+• Focus on Environmental, Social and
+Governance (ESG) as a strategic theme
+for all enterprise stakeholders
+Intense competition marks the
+delivery of traditional services in
+a rapidly changing marketplace,
+especially with the emergence of
+new players in niche technology
+areas. Infosys’ industry expertise, end
+to-end service capability and digital
+solutions, ability to scale, established
+platforms, superior quality and
+process execution, distributed agile
+global delivery model, experienced
+management team, talented
+professionals and track record are
+often cited as clear differentiators.
+Responsibility and
+responsiveness
+As an early proponent of responsible
+business, Infosys has incorporated
+ESG goals into the entirety of its
+operations. Infosys ESG Vision 2030
+articulates the Company’s ambitions
+to balance success as a business with
+unwavering focus on exemplary
+governance and responsiveness to
+the needs of stakeholders. Primary
+stakeholders include investors,
+customers, employees, suppliers,
+communities, government and
+regulatory bodies. The expectations
+of the Company’s investors include
+sustainable business performance
+and good returns; customers want
+long-term business value and
+innovative solutions; employees are
+keen for opportunities to learn and
+grow, suppliers look forward to longterm relationships; communities seek
+improved lives, while governments
+and regulators expect good
+governance and legal compliance.
+Infosys continues to deliver value to
+all its stakeholders through prudent
+and responsible business decisions,
+services and operations.
+During fiscal 2023, Infosys extended
+adoption of the integrated Enterprise
+Risk Management framework across
+the organization, strengthening
+its risk management program
+significantly. While the Company
+tracks several risks to its business, the
+top risks and mitigation, along with
+emerging risks, are available in the
+Risk management report.
+Key products and platforms
+Digital
+Core
+Experience Accelerate
+Insight Assure
+Innovate
+Application management services Infrastructure management services
+Proprietary application development services Traditional enterprise application implementation
+Independent validation solutions Support and integration services
+Product engineering and management Business process management
+Our solutions are classified as digital and core.
+Digital accelerators
+Infosys Metaverse Foundry eases and fast-tracks enterprises’ exploration of the
+metaverse, including virtual and augmented environments, for their customers,
+workplace, products and operations.
+Infosys Center for Emerging Technology Solutions focuses on incubation of NextGen
+services and offerings by identifying and building technology capabilities to
+accelerate innovation.
+Center for Emerging
+Technology Solutions
+Infosys Cobalt is a set of services, solutions, and platforms for enterprises to accelerate
+their cloud journey.
+Infosys Topaz is an AI-first offering to accelerate business value for global enterprises
+using generative AI.
+40 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 41
+Strategy
+Approaching value creation
+Our strategic objective is to build a sustainable and resilient organization that remains
+relevant to the agenda of our clients, while creating growth opportunities for our
+employees, generating profitable returns for our investors and contributing to the
+communities that we operate in.
+Scale agile digital
+Our revenue from digital technology
+related services and solutions has
+more than doubled in the last
+three years, and now comprises
+62.2% of our total revenue. We are
+rated as a “leader” in 56 industry
+analyst ratings across our digital
+offerings. These outcomes are a
+result of investments we have made
+to expand our digital footprint via
+reskilling of our employees, targeted
+acquisitions, strong ecosystem
+partnerships, innovation experience
+centers across the world, intellectual
+property development, reconfiguring
+our workspaces for agile software
+development and enhancing
+our brand.
+During the fiscal, we completed the
+acquisition of oddity to augment
+our human experience capabilities
+in Europe. Through our academia
+partnerships with Purdue, Trinity,
+RISD and eCornell, we have trained
+over 7,500 employees in niche
+digital skills.
+Our Insight and data analytics
+services and solutions were further
+strengthened with our Infosys
+Applied AI solutions, coupled with
+the Infosys Data Workbench. Our AI
+platform, Infosys Applied AI, helps
+enterprises adopt a comprehensive
+approach to scaling enterprise-grade
+AI for their businesses. Our Core AI
+Engineering will focus on identifying,
+fine tuning and deploying models,
+API’s and platforms in a responsible
+manner for building AI products.
+Our Innovate-related services and
+solutions are boosted by workspaces
+that have been specifically
+redesigned for agile software
+development, teams reskilled in
+agile methodologies, certified
+scrum masters and capabilities in
+horizontal technologies such as
+5G, autonomous tech, product
+engineering, internet of things and
+blockchain.
+Our Accelerate-related services
+are aimed at rapidly transforming
+our clients’ legacy technology
+landscapes and processes with digital
+technology. We invested in and
+built strong partnerships with cloud
+hyperscalers such as AWS, GCP and
+Microsoft Azure, and SaaS providers.
+Infosys Equinox, our flagship digital
+commerce platform, is a set of core
+microservices encompassing all
+digital commerce scenarios to help
+enterprises rapidly build and deploy
+features across all touchpoints
+and channels, without the friction
+associated with legacy platforms.
+Our Automation and AI services
+grew on the back of our alliances
+with leading Robotic Process
+Automation (RPA) solution providers,
+AI infrastructure players like Nvidia
+and niche AI players, powered by
+our best-in-class solutions, IPs and
+frameworks. We have automated
+over 50,000 processes for our clients
+and have over 12,000 ready use cases
+across industries.
+Our Assure-related services, in
+software testing and cybersecurity,
+continued to grow with investments
+in Cyber Gaze, our cybersecurity
+dashboard and suite of applications.
+Our clients and prospective clients
+are faced with transformative
+business opportunities due to
+advances in software and computing
+technology. These organizations
+are dealing with the challenge
+of having to reinvent their core
+offerings, processes and systems
+rapidly and position themselves as
+“digitally enabled”. The journey to
+the digital future requires not just an
+understanding of new technologies
+and new ways of working, but a deep
+appreciation of existing technology
+landscapes, business processes
+and practices. Our strategy is to be
+a navigator for our clients as they
+ideate, plan and execute on their
+journey to a digital future.
+In 2018, we embraced a four-pronged
+strategy to strengthen our relevance
+with clients and drive accelerated
+value creation:
+1. Scale agile digital
+2. Energize the core
+3. Reskill our people
+4. Expand localization
+We believe the investments we have
+made, and continue to make, in our
+strategy will enable us to advise and
+help our clients as they tackle the
+current market conditions. Further,
+we have been able to successfully
+enable most of our employees
+worldwide to work remotely and
+securely – giving us the operational
+stability to deliver on client
+commitments and ensuring our own
+business continuity.
+Over the last few years, we have
+executed on this strategy and
+generated significant outcomes.
+Looking ahead, and to continue staying relevant to the emerging needs of our clients, we prioritize:
+• Scaling our cloud capabilities,
+especially around cloud advisory,
+data on cloud, cloud security, SaaS,
+PaaS, IaaS and private cloud;
+• Expanding capabilities in key
+digital technology areas such
+as AI, product engineering,
+cybersecurity and human
+experience;
+• Strengthening our employee value
+proposition for the newer contexts
+of work and workplace;
+• Running our operations in a
+cost-effective and agile manner,
+including increasing the levels of
+automation in our service delivery;
+• Delivering on our ESG
+commitments, while at the same
+time enabling our clients to realize
+their sustainability goals.
+Energize the core
+Leveraging automation and AI,
+we are winning and executing
+several engagements for our
+clients to modernize their core
+legacy technology and process
+landscapes. We made significant
+investments in our “Live Enterprise”
+platform, including our Bot Factory
+of preconfigured automation bots
+and Live Enterprise Application
+Management Platform (LEAP),
+our platform for optimizing large
+scale application maintenance and
+reengineering.
+In fiscal 2023, we won a total
+contract value of over US$ 9.8
+billion in large deals, continuing
+to demonstrate our capabilities
+and competitiveness in executing
+complex transformation programs.
+In addition, investments in our own
+internal systems, reimagination of our
+internal processes and automation
+of software development processes
+have helped increase our agility,
+boost productivity and enhance our
+competitiveness even in the current
+paradigm of remote working.
+Expand localization
+With the objective of creating
+differentiated talent pools and
+ecosystems in our markets, we
+made significant investments in
+expanding our local workforce in
+the United States, UK, Europe, Japan,
+China, Canada and Australia. We
+established innovation hubs, nearshore centers and digital design
+studios across geographies. Further,
+we expanded our university and
+community college partnerships in
+all these regions to aid internships,
+recruitment, training and joint
+research. In fiscal 2023, we recruited
+over 10,169 employees locally in our
+markets, of which 2,216 were fresh
+graduates.
+Reskill our people
+Continuous learning and reskilling
+has always been integral to our
+operating model. We operate our
+reskilling program with the twin
+objectives of increasing fulfillment
+of demand for digital skills in client
+projects and for enriching the
+expertise of our global workforce
+in next generation technologies
+and methodologies. We invested
+in, and scaled, our digital reskilling
+program globally. Our programs now
+also encompass latest courses on
+generative AI landscape.
+Lex, our in-house developed,
+anytime-anywhere-learning platform,
+offers over 14,800 courses curated
+for easy consumption on mobile
+devices with advanced telemetry,
+gamification and certification
+features. Over 3,25,000 of our
+employees use Lex and are spending
+approximately 3.3 million training
+days compared to 2.3 million in the
+last fiscal.
+Our platforms are also being
+enhanced with generative AI aspects.
+42 Infosys Integrated Annual Report 2022-23 Infosys Integrated Annual Report 2022-23 43
+Value creation model
+Approaching value creation
+Inputs Process and Strategy
+Financial Capital
+`75,407 cr Net assets
+`31,286 cr Consolidated cash and investments
+Intellectual Capital
+1,90,000 Employees trained in digital skills
+40 Industry-leading products, solutions and platforms
+248 Startups in our innovation ecosystem
+Human Capital
+3,43,234 Total no. of employees
+16.31 Annual average training days per
+employee
+`1,585cr Investments in employee well-being
+Natural and Manufactured Capital
+28.9 mn sq. ft. Highest rated green buildings
+`1,510 cr Capex spend on tech infrastructure
+32 Climate change solutions
+Social and Relationship Capital
+`517 cr Global CSR spends
+1,872 Total no. of active clients
+28 No. of nearshore / tier-2 locations
+13 No. of carbon offset projects
+Client offerings
+Digital
+Products
+Platforms
+Core solutions
+Hi-Tech
+Manufacturing
+Life Sciences and Healthcare
+Financial Services and Insurance
+Energy, Utilities, Resources and Services
+Communications, Telecom OEM and Media
+Retail, Consumer Packaged Goods and Logistics
+Public Services
+Others including segments of businesses in India, Japan and China
+Go-to-market business units
+Environment
+Strategy
+Social Governance
+Our people and
+the strong culture
+of innovation
+Scale agile digital
+Energize the core
+Reskill our people
+Expand localization
+Financial Capital
+15.4%Constant currency revenue growth
+9.7% Earnings per share growth
+31.2%Return on equity
+• Profitable growth
+• Sustained / long-term cash flow
+Intellectual Capital
+62.2% Digital revenues
+25.6%Constant currency digital revenue growth
+56 Digital leader ratings
+290 Artifacts published by the Infosys Knowledge Institute (IKI)
+27 Reports published by IKI
+735 Patents in the portfolio
+• Diversified portfolio of solutions
+across industry segments
+• Innovation partner to clients
+• Partner of choice for social and
+environmental solutions for the
+community
+Human Capital
+~50,000 Fresh graduates hired globally
+1,35,355 Women in the workforce (39.

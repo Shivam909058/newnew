@@ -1,0 +1,20 @@
+1. Working Hours: 9 AM - 6 PM, Monday to Friday.
+2. Leave Policy: Employees are entitled to 20 days of paid leave per year.
+3. Code of Conduct: Employees must adhere to professional behavior at all times.
+4. Health Insurance: Company provides health insurance for all employees.
+5. Maternity Leave: 12 weeks of paid leave for new mothers.
+6. Remote Work Policy: Up to 2 days of remote work allowed per week.
+
+
+1. IT Helpdesk: Available 24/7 via support@examplecorp.com or ext. 101.
+2. Password Reset: Employees can reset their passwords using the IT portal.
+3. Software Installation: Submit requests through the IT ticketing system.
+4. Data Security: All devices must have endpoint security software installed.
+5. Hardware Issues: Replacement laptops provided within 2 business days.
+
+
+1. Annual Meet: Scheduled for December 15th at the Hilton Downtown.
+2. Wellness Program: Weekly yoga sessions every Wednesday at 7 AM.
+3. Hackathon: Internal hackathon from September 1st to September 3rd.
+4. Charity Run: Join us for a 5K run for charity on October 20th.
+5. Employee Appreciation Day: Celebrated on the last Friday of every quarter.

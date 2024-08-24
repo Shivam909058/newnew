@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Document Upload and Chat</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        form, #chat-interface {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        input[type="file"], input[type="text"] {
+            margin-bottom: 10px;
+            width: 100%;
+            padding: 8px;
+        }
+        input[type="submit"], button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        input[type="submit"]:hover, button:hover {
+            background-color: #45a049;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background-color: #f2f2f2;
+            margin-bottom: 5px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        #chat-messages {
+            height: 300px;
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Document Upload and Chat</h1>
+    <form method="post" enctype="multipart/form-data">
+        <div>
+            <label for="file-upload">Choose a file:</label>
+            <input type="file" id="file-upload" name="file" accept=".txt,.pdf,.csv" required>
+        </div>
+        <div>
+            <input type="submit" value="Upload">
+        </div>
+    </form>
+    {% with messages = get_flashed_messages() %}
+        {% if messages %}
+            <ul aria-live="polite">
+                {% for message in messages %}
+                    <li>{{ message }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    {% endwith %}
+
+    <div id="chat-interface">
+        <h2>Chat with the Bot</h2>
+        <div id="chat-messages"></div>
+        <input type="text" id="user-input" placeholder="Type your message here...">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+    <script>
+        function sendMessage() {
+            var userInput = document.getElementById('user-input');
+            var message = userInput.value;
+            if (message.trim() === '') return;
+            displayMessage('You: ' + message);
+            userInput.value = '';
+
+
+            fetch('/chat', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({query: message}),
+            })
+            .then(response => response.json())
+            .then(data => {
+
+                displayMessage('Bot: ' + data.response);
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+                displayMessage('Error: Unable to get response from the bot.');
+            });
+        }
+
+        function displayMessage(message) {
+            var chatMessages = document.getElementById('chat-messages');
+            var messageElement = document.createElement('p');
+            messageElement.textContent = message;
+            chatMessages.appendChild(messageElement);
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        }
+
+
+        document.getElementById('user-input').addEventListener('keypress', function (e) {
+            if (e.key === 'Enter') {
+                sendMessage();
+            }
+        });
+    </script>
+</body>
+</html>
