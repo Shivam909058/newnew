@@ -1,5 +1,6 @@
 import os
 from flask import Flask, request, jsonify, render_template, flash, redirect, url_for
+from flask_cors import CORS
 from werkzeug.utils import secure_filename
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import TextLoader, PyPDFLoader, CSVLoader
@@ -21,6 +22,7 @@ if not openai_api_key:
     raise ValueError("OPENAI_API_KEY not found in environment variables")
 
 app = Flask(__name__)
+CORS(app)
 app.config['SECRET_KEY'] = os.urandom(24)
 app.config['UPLOAD_FOLDER'] = 'uploads'
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # 16MB max-limit
@@ -53,6 +55,7 @@ def load_documents(file_path: str) -> List[str]:
     except Exception as e:
         logging.error(f"Error loading file {file_path}: {str(e)}")
         raise
+
 with open("bad.txt", "r") as f:
     bad_words = set(word.strip().lower() for word in f)
 

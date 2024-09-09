@@ -9,3 +9,4 @@ faiss-cpu
 PyPDF2
 pandas
 tiktoken
+flask-cors
