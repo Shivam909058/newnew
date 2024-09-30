@@ -24,7 +24,7 @@ def test_upload():
 def test_chat():
     url = "http://127.0.0.1:8000/chat"
     payload = {
-        "message": "What was the financial performance of GAIL (India) Limited for the fiscal year?"
+        "query": "What was the financial performance of GAIL (India) Limited for the fiscal year?"
     }
     response = requests.post(url, json=payload)
     print(response.json())

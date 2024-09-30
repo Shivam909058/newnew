@@ -19,6 +19,7 @@ from dotenv import load_dotenv
 import logging
 import io
 from fastapi import File, UploadFile
+
 # Set up logging
 logging.basicConfig(level=logging.DEBUG)
 
@@ -63,7 +64,7 @@ def load_documents(file_content: bytes, filename: str) -> List[str]:
         if file_extension == 'pdf':
             loader = PyPDFLoader(io.BytesIO(file_content))
         elif file_extension == 'txt':
-            loader = TextLoader(io.StringIO(file_content.decode('utf-8')))
+            loader = TextLoader(io.BytesIO(file_content))  # Changed to BytesIO
         elif file_extension == 'csv':
             loader = CSVLoader(io.StringIO(file_content.decode('utf-8')))
         else:
@@ -106,7 +107,6 @@ def get_db_session(db_url: str):
     return db_engines[db_url]()
 
 embeddings = OpenAIEmbeddings()
-
 
 sample_file_content = """
 GAIL (India) Limited Comprehensive Financial Report:
