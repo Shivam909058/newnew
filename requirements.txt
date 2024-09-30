@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 fastapi
 uvicorn
 python-multipart
@@ -9,7 +9,7 @@ langchain_community
 faiss-cpu
 python-dotenv
 pydantic
-=======
+
 Flask
 Werkzeug
 python-dotenv
@@ -22,4 +22,4 @@ PyPDF2
 pandas
 tiktoken
 flask-cors
->>>>>>> 83440cad0cf9f4fb7bb632c7357083b78f358e03
+
