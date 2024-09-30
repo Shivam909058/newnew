@@ -1,4 +1,5 @@
 import os
+<<<<<<< HEAD
 from fastapi import FastAPI, File, UploadFile, HTTPException, Depends
 from fastapi.responses import JSONResponse
 from sqlalchemy import create_engine, text
@@ -6,6 +7,11 @@ from sqlalchemy.orm import sessionmaker
 from sqlalchemy.exc import SQLAlchemyError
 from pydantic import BaseModel
 from typing import List, Optional
+=======
+from flask import Flask, request, jsonify, render_template, flash, redirect, url_for
+from flask_cors import CORS
+from werkzeug.utils import secure_filename
+>>>>>>> 83440cad0cf9f4fb7bb632c7357083b78f358e03
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import TextLoader, PyPDFLoader, CSVLoader
 from langchain_openai import OpenAIEmbeddings
@@ -25,7 +31,15 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 if not openai_api_key:
     raise ValueError("OPENAI_API_KEY not found in environment variables")
 
+<<<<<<< HEAD
 app = FastAPI()
+=======
+app = Flask(__name__)
+CORS(app)
+app.config['SECRET_KEY'] = os.urandom(24)
+app.config['UPLOAD_FOLDER'] = 'uploads'
+app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # 16MB max-limit
+>>>>>>> 83440cad0cf9f4fb7bb632c7357083b78f358e03
 
 ALLOWED_EXTENSIONS = {'txt', 'pdf', 'csv'}
 UPLOAD_FOLDER = 'uploads'
@@ -56,7 +70,10 @@ def load_documents(file_path: str) -> List[str]:
         logging.error(f"Error loading file {file_path}: {str(e)}")
         raise
 
+<<<<<<< HEAD
 # Load bad words from file
+=======
+>>>>>>> 83440cad0cf9f4fb7bb632c7357083b78f358e03
 with open("bad.txt", "r") as f:
     bad_words = set(word.strip().lower() for word in f)
 
@@ -141,6 +158,11 @@ async def chat(chat_query: ChatQuery):
         raise HTTPException(status_code=500, detail="An error occurred while processing your request")
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     import uvicorn
     os.makedirs(UPLOAD_FOLDER, exist_ok=True)
     uvicorn.run(app, host="0.0.0.0", port=8000)
+=======
+    os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
+    app.run(debug=True)
+>>>>>>> 83440cad0cf9f4fb7bb632c7357083b78f358e03
