@@ -14,7 +14,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 8000
 
 # Define environment variable
-ENV OPENAI_API_KEY=sk-OxzWseLGnSEELgOhPiggRSOANfAol8rVcczcFzxXSeT3BlbkFJ3VpDXmVXmeFmpmjLNbAsAbRgA52dPj9K9HXdn41KEA
+ENV OPENAI_API_KEY=api_key
 
 # Run app.py when the container launches
 CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]
