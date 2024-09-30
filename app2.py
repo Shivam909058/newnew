@@ -1,7 +1,9 @@
 import os
+import base64
 from fastapi import FastAPI, File, UploadFile, HTTPException, Depends
 from fastapi.responses import JSONResponse
-from sqlalchemy import create_engine, text
+from sqlalchemy import create_engine, Column, Integer, String, LargeBinary, text
+from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.exc import SQLAlchemyError
 from pydantic import BaseModel
@@ -15,6 +17,7 @@ from langchain_openai import ChatOpenAI
 from langchain.memory import ConversationBufferMemory
 from dotenv import load_dotenv
 import logging
+import io
 
 # Set up logging
 logging.basicConfig(level=logging.DEBUG)
@@ -28,21 +31,43 @@ if not openai_api_key:
 app = FastAPI()
 
 ALLOWED_EXTENSIONS = {'txt', 'pdf', 'csv'}
-UPLOAD_FOLDER = 'uploads'
+
+# Database setup
+DATABASE_URL = "sqlite:///./chatbot.db"
+engine = create_engine(DATABASE_URL)
+SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+Base = declarative_base()
+
+class File(Base):
+    __tablename__ = "files"
+
+    id = Column(Integer, primary_key=True, index=True)
+    filename = Column(String, index=True)
+    content = Column(LargeBinary)
+
+Base.metadata.create_all(bind=engine)
+
+def get_db():
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
 
 def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
-def load_documents(file_path: str) -> List[str]:
+def load_documents(file_content: bytes, filename: str) -> List[str]:
     try:
-        if file_path.endswith('.pdf'):
-            loader = PyPDFLoader(file_path)
-        elif file_path.endswith('.txt'):
-            loader = TextLoader(file_path, encoding='utf-8')
-        elif file_path.endswith('.csv'):
-            loader = CSVLoader(file_path)
+        file_extension = filename.rsplit('.', 1)[1].lower()
+        if file_extension == 'pdf':
+            loader = PyPDFLoader(io.BytesIO(file_content))
+        elif file_extension == 'txt':
+            loader = TextLoader(io.StringIO(file_content.decode('utf-8')))
+        elif file_extension == 'csv':
+            loader = CSVLoader(io.StringIO(file_content.decode('utf-8')))
         else:
-            raise ValueError(f"Unsupported file type: {file_path}")
+            raise ValueError(f"Unsupported file type: {filename}")
 
         documents = loader.load()
         text_splitter = RecursiveCharacterTextSplitter(
@@ -53,7 +78,7 @@ def load_documents(file_path: str) -> List[str]:
         texts = text_splitter.split_documents(documents)
         return texts
     except Exception as e:
-        logging.error(f"Error loading file {file_path}: {str(e)}")
+        logging.error(f"Error loading file {filename}: {str(e)}")
         raise
 
 # Load bad words from file
@@ -93,19 +118,23 @@ qa = RetrievalQA.from_chain_type(
 )
 
 @app.post("/upload")
-async def upload_file(file: UploadFile = File(...)):
+async def upload_file(file: UploadFile = File(...), db: SessionLocal = Depends(get_db)):
     if not allowed_file(file.filename):
         raise HTTPException(status_code=400, detail="File type not allowed")
     
-    file_path = os.path.join(UPLOAD_FOLDER, file.filename)
-    with open(file_path, "wb") as buffer:
-        buffer.write(await file.read())
+    file_content = await file.read()
     
     try:
-        texts = load_documents(file_path)
+        texts = load_documents(file_content, file.filename)
         docsearch.add_documents(texts)
+        
+        db_file = File(filename=file.filename, content=file_content)
+        db.add(db_file)
+        db.commit()
+        
         return JSONResponse(content={"message": f"File {file.filename} has been processed and added to the knowledge base."})
     except Exception as e:
+        db.rollback()
         logging.error(f"Error processing file {file.filename}: {str(e)}")
         raise HTTPException(status_code=500, detail=f"Error processing file: {str(e)}")
 
@@ -142,5 +171,4 @@ async def chat(chat_query: ChatQuery):
 
 if __name__ == '__main__':
     import uvicorn
-    os.makedirs(UPLOAD_FOLDER, exist_ok=True)
     uvicorn.run(app, host="0.0.0.0", port=8000)
