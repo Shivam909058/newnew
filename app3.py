@@ -18,7 +18,7 @@ from langchain.memory import ConversationBufferMemory
 from dotenv import load_dotenv
 import logging
 import io
-
+from fastapi import File, UploadFile
 # Set up logging
 logging.basicConfig(level=logging.DEBUG)
 
@@ -175,7 +175,7 @@ qa = RetrievalQA.from_chain_type(
 )
 
 @app.post("/upload")
-async def upload_file(file: UploadFile = File(...), db: SessionLocal = Depends(get_db)):
+async def upload_file(file: UploadFile = File(), db: SessionLocal = Depends(get_db)):
     if not allowed_file(file.filename):
         raise HTTPException(status_code=400, detail="File type not allowed")
     
